@@ -12,5 +12,5 @@ class App < Sinatra::Base
   @analyzed_text = TextAnalyzer.new(text_from_user)
  
   erb :results
-uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu hu yyyyy k      uh k  end
+ end
 end
